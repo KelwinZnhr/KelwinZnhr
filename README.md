@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kelwin Ndrianasolo
-- 👀 I’m interested in cross-platform technologie
+- 👀 I’m interested in cross-platform technology
 - 🌱 I’m currently learning Artificial Intelligence at Wuhan University of Technology
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any flutter/dart project
 - 📫 How to reach me sk8kelwin@gmail.com
 
 <!---
