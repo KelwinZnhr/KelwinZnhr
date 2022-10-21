@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KelwinZnhr
+- 👋 Hi, I’m Kelwin Ndrianasolo
 - 👀 I’m interested in cross-platform technologie
 - 🌱 I’m currently learning Artificial Intelligence at Wuhan University of Technology
 - 💞️ I’m looking to collaborate on ...
